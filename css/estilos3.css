@@ -1,0 +1,14 @@
+img{
+    width: 40px;
+    height: 40px;
+}
+body{
+    background-color:rgb(226, 43, 141);
+    font-family: sans-serif;
+    font-size: 10px;
+}
+.btn-primary{
+    background-color: rgb(244, 31, 144);
+    border-color: rgb(241, 142, 197);
+
+}
